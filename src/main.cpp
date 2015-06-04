@@ -1,3 +1,8 @@
+///////////////////////////////////////
+//Developed By	:- Saiyad Anwar Ali  //
+//Contact No.	:- +91 7869550197    //
+//Email Address	:- 13Anwar2@gmail.com//
+///////////////////////////////////////
 #include<stdio.h>
 #include<iostream>
 #include<opencv2\objdetect\objdetect.hpp>
